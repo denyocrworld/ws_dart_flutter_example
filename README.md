@@ -11,3 +11,8 @@ cd client
 dart pub get --verbose
 code .
 ```
+
+### Catatan
+Jika ingin debug di Android,
+Kamu harus ganti host-nya sesuai dengan IP.
+Contoh ini bekerja dengan baik di Windows Desktop.
